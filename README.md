@@ -1,2 +1,2 @@
-# mique-portfolio
-person progress in my web development 
+# my portfolio
+hey ,the purpose of this it to track my progress in my web development journey 
